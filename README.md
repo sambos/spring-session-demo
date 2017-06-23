@@ -1,5 +1,4 @@
 # spring-session-demo
-## POC for Spring Session
 
 ## Overview
 This POC was done to understand and evaluate the capabilities of Spring Session in relation to solving the multi user multi tab session scenario.
